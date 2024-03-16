@@ -1,0 +1,10 @@
+{
+    "name": "dogwifdrep",
+    "symbol": "$DREP",
+    "image": "https://raw.githubusercontent.com/TheHealthCalendar/testdrep/main/drep-og.png",
+    "description": "the dreppiest dog on solana/nTwitter: twitterurl/n Telegram: telegramurl/n Website: weburl",
+    "sellerFeeBasisPoints": 0,
+    "creators": null,
+    "collection": null,
+    "uses": null
+  }
